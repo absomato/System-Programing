@@ -1,0 +1,26 @@
+uhask
+mkmod
+
+권한 설정
+
+이것들이 어디에 저장되어있는지
+교수님의 핵심을 잡아서 그것을 발표할 수 있도록 하자
+
+size_t unsign int 타입
+이 소스들 다 중간고사 나옴
+
+read
+write
+close
+dup
+dup2
+lseek
+
+
+
+
+report
+131페이지의 4번, 5번
+깃 허브에 dbcreate.c, dbquery.c,dbupdate.c,student.c 팡리 엽로드
+dbdelete.c를 만들어서 upload하세요
+이것 중간고사에 낼 것임
